@@ -3,11 +3,11 @@ Version: 0.13.0
 Architecture: iphoneos-arm
 Installed-Size: 2340
 Depends: mobilesubstrate
-Filename: ./debs/PUBG_ALL.deb
-Size: 831976
-MD5sum: c876aacf5a4ca0a26c79d90acd277f67
-SHA1: b6c836e00aae13bbed88188d0077af8117966a67
-SHA256: 18ec3fad9f197b49195ee310eba3f3db6bb465bfd61e59e75108021870eb969f
+Filename: ./debs/PUBG_ALL_V2.deb
+Size: 827804
+MD5sum: 8a70c01f5839a2b13a0aea15b2779155
+SHA1: 83ef8b609f2aded5898470f54aaedb03001de91c
+SHA256: 6fd65cc3c500338abf86e96ae1e26de5113a946c4c7dc5bf30316dda82c8124e
 Section: Tweaks
 Homepage: iosmods.com
 Description: made by iosmods
