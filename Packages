@@ -1,16 +1,16 @@
 Package: com.maskman.com
-Version: 0.13.0
+Version: 0.13.0.3
 Architecture: iphoneos-arm
 Installed-Size: 2340
 Depends: mobilesubstrate
-Filename: ./debs/PUBG_ALL_V2.deb
-Size: 827804
-MD5sum: 8a70c01f5839a2b13a0aea15b2779155
-SHA1: 83ef8b609f2aded5898470f54aaedb03001de91c
-SHA256: 6fd65cc3c500338abf86e96ae1e26de5113a946c4c7dc5bf30316dda82c8124e
+Filename: ./debs/PUBG_ALL_V3.deb
+Size: 829288
+MD5sum: 6e5558ba318d71b98473ffc1acd649db
+SHA1: de77ae50ef51081c4407b774b9e0c397f0e2b1b3
+SHA256: 60c2b73f59316d27959ad75579d7dc5425e89bfac4ceb9bbde1c221da3d9de3e
 Section: Tweaks
 Homepage: iosmods.com
-Description: made by iosmods
+Description: made by MaskMan
 Author: MaskMan
-Name: Pubg_Premium_v2
+Name: Pubg_Premium_v3
 
